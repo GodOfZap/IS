@@ -67,16 +67,16 @@ Please see the **[CONTRIBUTING.md](CONTRIBUTING.md)** file for guidelines on set
   <img src="https://avatars.githubusercontent.com/u/104364679?v=4" width="60" height="60" alt="GodOfZap" style="border-radius: 50%;" />
 </a>
 
+<a href="https://github.com/keikurono7">
+  <img src="https://avatars.githubusercontent.com/u/125114994?v=4" width="60" height="60" alt="keikurono7" style="border-radius: 50%;" />
+</a>
+
 <a href="https://github.com/ak4shravikumar">
   <img src="https://avatars.githubusercontent.com/u/189372043?v=4" width="60" height="60" alt="ak4shravikumar" style="border-radius: 50%;" />
 </a>
 
 <a href="https://github.com/Lucky-Malik">
   <img src="https://avatars.githubusercontent.com/u/212520963?v=4" width="60" height="60" alt="Lucky-Malik" style="border-radius: 50%;" />
-</a>
-
-<a href="https://github.com/keikurono7">
-  <img src="https://avatars.githubusercontent.com/u/125114994?v=4" width="60" height="60" alt="keikurono7" style="border-radius: 50%;" />
 </a>
 
 <a href="https://github.com/drtoxic69">
