@@ -16,6 +16,28 @@ This repository holds lab exercises for **Information Security**, mostly written
 
 This project is a collection of lab exercises to implement security concepts like cryptography, network tools and other basics.
 
+- **Ex1 - Classical Ciphers**  
+  Implements classical algorithms like Caesar, Vigenère, Playfair, and Hill cipher.
+
+- **Ex2 - RSA (Asymmetric Crypto)**  
+  Educational implementation of RSA for key generation, encryption, and decryption.
+
+- **Ex3 - Hashing & Symmetric Crypto**  
+  Demonstrates SHA-256 hashing and symmetric encryption using AES and DES.
+
+- **Ex4 - Elliptic Curve Cryptography (ECC)**  
+  ECC encryption and ECIES-like examples using `ecies` and `tinyec`.
+
+- **Ex5 - Primality Testing**  
+  Trial division and Miller–Rabin algorithms for primality checks.
+
+- **Ex6 - Diffie–Hellman Key Exchange**  
+  Simulates DH key exchange to compute public keys and shared secrets.
+
+- **Ex7 - Digital Signatures**  
+  RSA-based signing and verification using the `cryptography` library.
+
+
 ---
 
 ## 🚀 Get Started
