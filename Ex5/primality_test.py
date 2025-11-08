@@ -88,3 +88,8 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+##################################################
+# Example Output:
+#Enter number to test primality: 97
+#Primality Test Result: Prime
+##################################################
