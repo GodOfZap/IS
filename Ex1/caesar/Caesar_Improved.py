@@ -65,3 +65,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+####################################
+# Example usage:
+# To encrypt: python Caesar_Improved.py encrypt "Hello, World!" 3
+# Output: "Khoor, Zruog!"
+# To decrypt: python Caesar_Improved.py decrypt "Khoor, Zruog!" 3
+# Output: "Hello, World!"
+####################################
