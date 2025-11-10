@@ -1,0 +1,5 @@
+tinyec
+pycryptodome
+eciespy
+cryptography
+numpy
