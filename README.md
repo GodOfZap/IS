@@ -48,8 +48,6 @@ This project is a collection of lab exercises to implement security concepts lik
 
 ### Setup & Run
 
-1. Navigate to the main directory and install the dependencies:
-
 1.  **Clone the project:**
 
     ```bash
