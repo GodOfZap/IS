@@ -60,7 +60,13 @@ This project is a collection of lab exercises to implement security concepts lik
     cd IS
     ```
 
-3.  **Run a script:**
+3.  **Install dependencies:**   
+
+    ```bash
+    pip install -r requirements.txt
+    ```    
+
+4.  **Run a script:**
 
     Go to the specific lab folder and run the file using the appropriate Python command (it may be `python` or `python3`):
 
@@ -71,8 +77,6 @@ This project is a collection of lab exercises to implement security concepts lik
     ```
 
     *(If a script needs extra packages, look for a **`requirements.txt`** file in that folder and install them first: `pip install -r requirements.txt`.)*
-
----
 
 ## 🤝 Contribute
 
