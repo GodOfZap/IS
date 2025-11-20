@@ -37,6 +37,8 @@ This project is a collection of lab exercises to implement security concepts lik
 - **Ex7 - Digital Signatures**  
   RSA-based signing and verification using the `cryptography` library.
 
+- **Ex9 – Password Guessing and Cracking**
+  Attempts passwords systematically or recovers them from hashes/encrypted data.
 
 ---
 
