@@ -37,10 +37,10 @@ This project is a collection of lab exercises to implement security concepts lik
 - **Ex7 - Digital Signatures**  
   RSA-based signing and verification using the `cryptography` library.
 
-- **Ex8 – Configure S/MIME**
+- **Ex8 – Configure S/MIME**  
   Configure S/MIME for E-Mail Communication.
 
-- **Ex9 – Password Guessing and Cracking**
+- **Ex9 – Password Guessing and Cracking**  
   Attempts passwords systematically or recovers them from hashes/encrypted data.
 
 ---
