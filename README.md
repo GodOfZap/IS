@@ -43,6 +43,9 @@ This project is a collection of lab exercises to implement security concepts lik
 - **Ex9 – Password Guessing and Cracking**  
   Attempts passwords systematically or recovers them from hashes/encrypted data.
 
+- **Ex10 – Authentication & Access Control**  
+  Implements authentication, authorization, and role‑based access control mechanisms in applications.
+
 ---
 
 ## 🚀 Get Started
